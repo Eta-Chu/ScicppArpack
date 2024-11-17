@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/eta/Desktop/code/Lib/ScicppArpack/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/eta/Desktop/lib/xtensor/include -I/Users/eta/Desktop/lib/xtl/include -I/Users/eta/Desktop/lib/xtensor-blas/include -std=c++17 -lstdc++ -pipe -O3 -fPIC -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test.dir/src/test.cpp.o -c /Users/eta/Desktop/code/Lib/ScicppArpack/src/test.cpp",
-  "file": "/Users/eta/Desktop/code/Lib/ScicppArpack/src/test.cpp",
-  "output": "CMakeFiles/test.dir/src/test.cpp.o"
-}
-]
